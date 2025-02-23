@@ -12,14 +12,23 @@ Database ini terdiri dari tiga tabel utama:
 
 🔧 Fitur yang Tersedia
 ✅ Membuat database db_perpus
+
 ✅ Menambahkan data ke dalam tabel menggunakan query INSERT dan Stored Procedure
+
 ✅ Stored Procedure untuk UPDATE & DELETE pada setiap tabel
+
 ✅ Stored Procedure untuk menampilkan seluruh data dari setiap tabel
+
 ✅ Trigger untuk mengurangi stok buku saat dipinjam
+
 ✅ Trigger untuk menambah stok buku saat dikembalikan
+
 ✅ Stored Procedure untuk mengembalikan buku dengan CURRENT DATE sebagai tanggal pengembalian
+
 ✅ Stored Procedure untuk menampilkan daftar siswa yang pernah meminjam buku
+
 ✅ Stored Procedure untuk menampilkan semua siswa, termasuk yang belum pernah meminjam buku
+
 ✅ Stored Procedure untuk menampilkan semua buku, termasuk yang belum pernah dipinjam
 
 📌 Catatan
